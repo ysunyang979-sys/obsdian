@@ -1,0 +1,15 @@
+# Obsidian 核心运行时状态与工作区缓存（两台电脑屏幕与布局不同，忽略此文件可避免无休止冲突）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/hotkeys.json.tmp
+
+# 回收站与系统缓存
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+
+# 提示：.obsidian/ 下的 plugins/（插件）、snippets/（CSS样式）、app.json、community-plugins.json 会正常同步到 GitHub
